@@ -19,7 +19,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 
 📂 Proyectos destacados
 
-### 📊 Análisis de Airbnb México
+### 📊 Airbnb México
 <img src="dashboard_airbnb.png" alt="Dashboard de Airbnb" width="500"/>
 
 - Herramientas: Power BI, SQL
@@ -27,16 +27,22 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
   
 ### 📊 Tienda Online
 <img src="dashboard_onlinestore.png" alt="Dashboard de Airbnb" width="500"/>
+
 - Herramientas: Power BI, Python
 - Descripción: Visualización de métricas de ventas, clientes y productos para un eccomerce simulado.
   
 ### 📊 Análisis de CO₂
 <img src="AnalisisCO2.png" alt="Analisis de CO2" width="500"/>
+
 - Herramienta: Python
 - Descripción: Evaluación de niveles de emisiones de carbono en distintos países.	
 
 
-Educación Global	Análisis de indicadores de acceso y calidad educativa en varios países.	Power BI
+### 📊 Educación Global	
+<img src="analisiseducacion.png" alt="Analisis de Educacion" width="500"/>
+
+- Herramientas: Python
+- Descripción: Análisis de indicadores de acceso y calidad educativa en varios países.
 
 # 📫 Cómo contactarme
 LinkedIn: www.linkedin.com/in/diego-axel-lopez-gomez-19ba78325
