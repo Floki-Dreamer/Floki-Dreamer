@@ -32,7 +32,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 - Descripción: Visualización de métricas de ventas, clientes y productos para un eccomerce simulado.
 
 ### 📊 R.H. Diversity & Inclusion 
-<img src="RHPWC.png" alt="Dashboard de PWC" width="500"/>
+<img src="HRPWC.png" alt="Dashboard de PWC" width="500"/>
 
 - Herramientas: Power BI, CSV
 - Descripcion: Visualizacion de paridad de genero en puestos de trabajo dentro de una empresa.
