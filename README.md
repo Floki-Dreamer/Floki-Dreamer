@@ -25,6 +25,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 - Descripción: Visualización de la disponibilidad y precios de Airbnb en CDMX.
   
 ### 📊 Tienda Online
+<img src="dashboard_onlinestore.png" alt="Dashboard de Airbnb" width="500"/>
 - Herramientas: Power BI, Python
 - Descripción: Visualización de métricas de ventas, clientes y productos para un eccomerce simulado.
   
