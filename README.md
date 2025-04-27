@@ -21,8 +21,8 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 
 ### 📊 Análisis de Airbnb México
 <img src="dashboard_airbnb.png" alt="Dashboard de Airbnb" width="500"/>
-- Herramientas: Power BI, SQL
-- Descripción: Visualización de la disponibilidad y precios de Airbnb en CDMX.
+-Herramientas: Power BI, SQL
+-Descripción: Visualización de la disponibilidad y precios de Airbnb en CDMX.
   
 ### 📊 Tienda Online
 <img src="dashboard_onlinestore.png" alt="Dashboard de Airbnb" width="500"/>
