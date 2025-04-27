@@ -8,7 +8,7 @@ Actualmente estoy enfocado en crecer profesionalmente en el área de BI, aplican
 
 Tambien me encuentro estudiando la ingeniera de Ciencia de Datos, por lo cual he agregado proyectos de ML.
 
-🛠️ Tecnologías principales
+### 🛠️ Tecnologías principales
 Power BI: Diseño de dashboards, modelado de datos, DAX, Power Query.
 
 SQL: Consultas para extracción y transformación de datos.
@@ -20,7 +20,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 📂 Proyectos destacados
 
 ### 📊 Análisis de Airbnb México
-![Dashboard de Airbnb](dashboard_airbnb.png)
+## ![Dashboard de Airbnb](dashboard_airbnb.png)
 - Herramientas: Power BI, SQL
 - Descripción: Visualización de la disponibilidad y precios de Airbnb en distintas ciudades mexicanas.
 Tienda Online	Visualización de métricas de ventas, clientes y productos para un ecommerce simulado.	Power BI, Python
