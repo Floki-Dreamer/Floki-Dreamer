@@ -1,7 +1,7 @@
-## 👋 Hola, soy Diego Axel López Gómez
+# 👋 Hola, soy Diego Axel López Gómez
 ¡Bienvenido a mi portafolio de proyectos!
 
-# 🚀 Sobre mí
+## 🚀 Sobre mí
 Soy un apasionado por el análisis de datos y la creación de soluciones de Business Intelligence. Me especializo en transformar datos en insights valiosos a través de herramientas como Power BI, SQL y Python.
 
 Actualmente estoy enfocado en crecer profesionalmente en el área de BI, aplicando mis conocimientos en visualización, modelado de datos y generación de reportes interactivos.
