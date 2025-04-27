@@ -6,7 +6,7 @@ Soy un apasionado por el análisis de datos y la creación de soluciones de Busi
 
 Actualmente estoy enfocado en crecer profesionalmente en el área de BI, aplicando mis conocimientos en visualización, modelado de datos y generación de reportes interactivos.
 
-También me encuentro estudiando la ingeniera en Ciencia de Datos, por lo cual he agregado proyectos de ML que se encuentran en mi portafolio.
+También me encuentro estudiando una Ingeniera en Ciencia de Datos, por lo cual he agregado proyectos de ML que se encuentran en mi portafolio.
 
 ### 🛠️ Tecnologías principales
 Power BI: Diseño de dashboards, modelado de datos, DAX, Power Query.
