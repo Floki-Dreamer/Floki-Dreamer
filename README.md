@@ -1,4 +1,4 @@
-# 👋 Hola, soy Diego Axel López Gómez
+# 👋 Hola, soy Diego
 ¡Bienvenido a mi portafolio de proyectos!
 
 ## 🚀 Sobre mí
