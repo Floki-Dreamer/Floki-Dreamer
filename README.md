@@ -33,6 +33,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 
 ### 📊 R.H. Diversity & Inclusion 
 <img src="RHPWC.png" alt="Dashboard de PWC" width="500"/>
+
 - Herramientas: Power BI, CSV
 - Descripcion: Visualizacion de paridad de genero en puestos de trabajo dentro de una empresa.
   
