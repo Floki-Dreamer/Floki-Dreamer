@@ -21,6 +21,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 
 Proyecto	Descripción	Tecnologías
 Airbnb México	Análisis de datos de propiedades y rentabilidad en CDMX.	Power BI, SQL
+![Dashboard de Airbnb](dashboard_airbnb.png)
 Tienda Online	Visualización de métricas de ventas, clientes y productos para un ecommerce simulado.	Power BI, Python
 Análisis de CO₂	Evaluación de niveles de emisiones de carbono en distintos países.	Python, Power BI
 Educación Global	Análisis de indicadores de acceso y calidad educativa en varios países.	Power BI
