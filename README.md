@@ -24,12 +24,13 @@ Airbnb México	Análisis de datos de propiedades y rentabilidad en CDMX.	Power B
 Tienda Online	Visualización de métricas de ventas, clientes y productos para un ecommerce simulado.	Power BI, Python
 Análisis de CO₂	Evaluación de niveles de emisiones de carbono en distintos países.	Python, Power BI
 Educación Global	Análisis de indicadores de acceso y calidad educativa en varios países.	Power BI
-📫 Cómo contactarme
+
+# 📫 Cómo contactarme
 LinkedIn: www.linkedin.com/in/diego-axel-lopez-gomez-19ba78325
 
 Correo: diegoaxel.lopez96@gmail.com
 
 GitHub: Floki-Dreamer
 
-🚀 ¡Gracias por visitar mi portafolio!
+# 🚀 ¡Gracias por visitar mi portafolio!
 
