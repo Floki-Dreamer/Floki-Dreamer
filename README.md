@@ -24,7 +24,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 - Herramientas: Power BI, SQL
 - Descripción: Visualización de la disponibilidad y precios de Airbnb en distintas ciudades mexicanas.
   
-Tienda Online	Visualización de métricas de ventas, clientes y productos para un ecommerce simulado.	Power BI, Python
+### Tienda Online	Visualización de métricas de ventas, clientes y productos para un ecommerce simulado.	Power BI, Python
 Análisis de CO₂	Evaluación de niveles de emisiones de carbono en distintos países.	Python, Power BI
 Educación Global	Análisis de indicadores de acceso y calidad educativa en varios países.	Power BI
 
