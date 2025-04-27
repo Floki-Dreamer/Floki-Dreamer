@@ -29,7 +29,12 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 - Herramientas: Power BI, Python
 - Descripción: Visualización de métricas de ventas, clientes y productos para un eccomerce simulado.
   
-Análisis de CO₂	Evaluación de niveles de emisiones de carbono en distintos países.	Python, Power BI
+### 📊 Análisis de CO₂
+<img src="AnalisisCO2.png" alt="Analisis de CO2" width="500"/>
+- Herramienta: Python
+- Descripción: Evaluación de niveles de emisiones de carbono en distintos países.	
+
+
 Educación Global	Análisis de indicadores de acceso y calidad educativa en varios países.	Power BI
 
 # 📫 Cómo contactarme
