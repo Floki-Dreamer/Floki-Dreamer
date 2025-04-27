@@ -20,7 +20,7 @@ Excel Avanzado: Tablas dinámicas, dashboards, modelado.
 📂 Proyectos destacados
 
 ### 📊 Análisis de Airbnb México
-## ![Dashboard de Airbnb](dashboard_airbnb.png)
+<img src="dashboard_airbnb.png" alt="Dashboard de Airbnb" width="500"/>
 - Herramientas: Power BI, SQL
 - Descripción: Visualización de la disponibilidad y precios de Airbnb en distintas ciudades mexicanas.
 Tienda Online	Visualización de métricas de ventas, clientes y productos para un ecommerce simulado.	Power BI, Python
