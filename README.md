@@ -2,11 +2,11 @@
 ¡Bienvenido a mi portafolio de proyectos!
 
 ## 🚀 Sobre mí
-Soy un apasionado por el análisis de datos y la creación de soluciones de Business Intelligence. Me especializo en transformar datos en insights valiosos a través de herramientas como Power BI, SQL y Python.
+Me apasiona convertir datos en respuestas claras que ayuden a tomar decisiones. Disfruto creando soluciones de Business Intelligence, y me siento cómodo trabajando con Power BI, SQL y Python para dar forma a reportes que realmente aporten valor.
 
-Actualmente estoy enfocado en crecer profesionalmente en el área de BI, aplicando mis conocimientos en visualización, modelado de datos y generación de reportes interactivos.
+Estoy enfocado en seguir creciendo en el área de BI, aplicando lo que sé sobre visualización, modelado de datos y reportes dinámicos que se adapten a las necesidades del negocio.
 
-También me encuentro estudiando una Ingeniera en Ciencia de Datos, por lo cual he agregado proyectos de ML que se encuentran en mi portafolio.
+Además, estoy estudiando Ingeniería en Ciencia de Datos, y por eso también he empezado a incorporar proyectos de Machine Learning en mi portafolio.
 
 ### 🛠️ Tecnologías principales
 Power BI: Diseño de dashboards, modelado de datos, DAX, Power Query.
