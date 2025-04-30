@@ -2,7 +2,7 @@
 ¡Bienvenido a mi portafolio de proyectos!
 
 ## 🚀 Sobre mí
-Me apasiona convertir datos en respuestas claras que ayuden a tomar decisiones. Disfruto creando soluciones de Business Intelligence, y me siento cómodo trabajando con Power BI, SQL y Python para dar forma a reportes que realmente aporten valor.
+Me apasiona convertir datos en respuestas claras que ayuden a tomar decisiones. Disfruto creando soluciones de Business Intelligence, y me emociona trabajar con Power BI, SQL y Python para dar forma a reportes que realmente aporten valor.
 
 Estoy enfocado en seguir creciendo en el área de BI, aplicando lo que sé sobre visualización, modelado de datos y reportes dinámicos que se adapten a las necesidades del negocio.
 
